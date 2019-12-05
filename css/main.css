@@ -4,6 +4,12 @@ html {
   box-sizing: border-box;
 }
 
+.cards {
+  display: flex;
+  flex-direction: row;
+  border-left: 1px solid #333;
+}
+
 .btn {
   display: inline-block;
   padding-top: 1.5;
@@ -13,3 +19,4 @@ html {
   font-size: 1.125rem;
   text-decoration: none;
   border: 3px solid #333;
+  font-size: .875rem;
