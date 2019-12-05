@@ -4,6 +4,9 @@ html {
   box-sizing: border-box;
 }
 
+  box-sizing: inherit;
+}
+
 .cards {
   display: flex;
   flex-direction: row;
@@ -49,5 +52,12 @@ html {
   font-size: .875rem;
 
 img {
+  display: block;
   width: 100px;
+}
+
+h2 {
+  font-size: 2rem;
+  font-style: bold;
+  text-align: center;
 }
