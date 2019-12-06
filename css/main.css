@@ -70,12 +70,12 @@ img {
 h2 {
   font-size: 2rem;
   text-align: center;
-  font-style: bold;
+  font-weight: bold;
 }
 
 h3 {
   font-size: 1rem;
-  font-style: bold;
+  font-weight: bold;
 }
 
 h4 {
