@@ -47,13 +47,14 @@ html {
 }
 
 .btn {
-  display: inline-block;
+  display: block;
   border-radius: 8px;
   color: #fff;
   background-color: #333;
   font-size: 1.125rem;
   text-decoration: none;
   border: 3px solid #333;
+}
 
 .btn-small {
   font-size: .875rem;
@@ -61,11 +62,26 @@ html {
 
 img {
   display: block;
-  width: 100px;
+  width: 25%;
 }
 
 h2 {
   font-size: 2rem;
   font-style: bold;
   text-align: center;
+}
+
+h3 {
+  font-size: 1rem;
+  font-style: bold;
+}
+
+h4 {
+  font-size: .875rem;
+  font-style: italic;
+}
+
+p {
+  font-style: normal;
+  font-size: 1rem;
 }
