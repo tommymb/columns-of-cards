@@ -68,8 +68,8 @@ html {
 
 img {
   display: block;
-  width: 25%;
   width: 100px;
+  margin: 0 auto 1.5rem;
 }
 
 h2 {
