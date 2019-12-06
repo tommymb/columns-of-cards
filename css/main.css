@@ -61,6 +61,11 @@ html {
   font-size: .875rem;
 }
 
+.btn:hover {
+  background-color: #000;
+  border-color: #000;
+}
+
 img {
   display: block;
   width: 25%;
@@ -87,4 +92,9 @@ h4 {
 p {
   font-style: normal;
   font-size: 1rem;
+}
+
+body {
+  display:flex;
+  padding: 1.5rem;
 }
