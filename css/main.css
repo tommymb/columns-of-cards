@@ -16,6 +16,10 @@ html {
 }
 
 img {
+  width: 100%;
+}
+
+.cards img {
   display: block;
   width: 100px;
   margin: 0 auto 1.5rem;
