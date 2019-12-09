@@ -16,7 +16,9 @@ html {
 }
 
 .cards img {
+  display: block;
   width: 100px;
+  margin: 0 auto 1.5rem;
 }
 
 .one {
@@ -71,12 +73,6 @@ html {
 .btn:hover {
   background-color: #000;
   border-color: #000;
-}
-
-img {
-  display: block;
-  width: 100px;
-  margin: 0 auto 1.5rem;
 }
 
 h2 {
