@@ -15,7 +15,7 @@ html {
   flex-grow: 4;
 }
 
-.cards img {
+img {
   display: block;
   width: 100px;
   margin: 0 auto 1.5rem;
